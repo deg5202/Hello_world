@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Debug.Log("게임매니저 추가.");
+        Debug.Log("또추가");
     }
 
     // Update is called once per frame
